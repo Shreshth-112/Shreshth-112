@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Shreshth-112
-- 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning backend(JS) and DSA
 - 💞️ I’m looking to collaborate on Fullstack projects
 - 📫 Reach me on twitter @PaliyalShre 
 
