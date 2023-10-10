@@ -1,6 +1,6 @@
- 👋 Hi, I’m @Shreshth-112 -
- 💞️ I’m looking to collaborate on Fullstack projects -
- 📫 Reach me on twitter @PaliyalShre -
+ 👋 Hi, I’m @Shreshth-112 <br />
+ 💞️ I’m looking to collaborate on Fullstack projects <br />
+ 📫 Reach me on twitter @PaliyalShre <br />
  
 
 <!---
