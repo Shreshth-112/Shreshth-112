@@ -1,11 +1,14 @@
 👋 Hi, I’m @Shreshth-112 <br />
 🤖 I’m looking to collaborate on Fullstack projects <br />
+```diff
+-Microservices
+```
 📫 Reach me on Twitter @PaliyalShreshth
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 <!-- <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">  -->
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /> 
 &nbsp;&nbsp;&nbsp;
 <!-- </a>&nbsp;&nbsp; -->
 <!-- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">  -->
