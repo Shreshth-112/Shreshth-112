@@ -1,6 +1,6 @@
-<h3 align="center">👋 Hi, I’m @Shreshth-112 <br />
-<h3 align="center"> 🤖 I’m looking to collaborate on Fullstack projects <br />
-<h3 align="center">📫 Reach me on Twitter @PaliyalShreshth
+👋 Hi, I’m @Shreshth-112 <br />
+🤖 I’m looking to collaborate on Fullstack projects <br />
+📫 Reach me on Twitter @PaliyalShreshth
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
