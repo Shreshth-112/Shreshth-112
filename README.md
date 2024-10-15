@@ -1,8 +1,5 @@
 👋 Hi, I’m @Shreshth-112 <br />
 🤖 I’m looking to collaborate on Fullstack projects <br />
-```diff
--Microservices
-```
 📫 Reach me on Twitter @PaliyalShreshth
 
 <h3 align="left">Languages and Tools:</h3>
@@ -54,3 +51,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
 </a>
 </p>
+
+```diff
+-Live links down (15-10-24)
+```
